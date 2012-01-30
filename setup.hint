@@ -1,0 +1,8 @@
+sdesc: "Tunnel TCP connections through HTTP proxies"
+ldesc: "A simple tool to tunnel TCP connections through an HTTP proxy
+supporting the CONNECT method. It reads stdin and writes to stdout
+during the connection, just like netcat. It can be used for instance
+to connect to an SSH server running on a remote 443 port through a
+strict HTTPS proxy."
+category: Net Web
+requires: cygwin

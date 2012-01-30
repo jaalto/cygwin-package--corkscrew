@@ -1,0 +1,2 @@
+tag1: corkscrew
+  http://packages.debian.org/unstable/corkscrew pregexp:orig.tar.gz file:corkscrew_2.0.orig.tar.gz new: x:

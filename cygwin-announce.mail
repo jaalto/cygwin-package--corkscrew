@@ -1,0 +1,60 @@
+-- Copyright (C) 2007 Jari Aalto; Licenced under GPL v2 or later
+
+To: cygwin-announce@cygwin.com
+Subject: Updated: package N.N
+Subject: New package: corkscrew 2.0-1 -- Tunnel TCP connections through HTTP proxies
+
+PACKAGE DESCRIPTION
+===================
+
+Homepage: http://www.agroman.net/corkscrew
+License : GPL
+
+A simple tool to tunnel TCP connections through an HTTP proxy
+supporting the CONNECT method. It reads stdin and writes to stdout
+during the connection, just like netcat. It can be used for instance
+to connect to an SSH server running on a remote 443 port through a
+strict HTTPS proxy.
+
+CHANGES SINCE LAST RELEASE
+==========================
+
+See /usr/share/doc/corkscrew-*/NEWS
+
+INSTALL OR UPGRADE NOTES
+========================
+
+Standard install
+
+CYGWIN INSTALLATION INFORMATION
+===============================
+
+To install this package, click on the "Install Cygwin now" link on the
+<http://cygwin.com/> web page. This downloads setup.exe to your
+system. Then, run setup and answer all of the questions. You'll find
+the package listed in the "All" category. After installation, read the
+documentation at directories:
+
+    /usr/share/doc/<package-version>/*
+    /usr/share/doc/Cygwin/<package-version>.README
+
+If you have questions or comments, please send them to the Cygwin
+mailing list at <cygwin@cygwin.com>.
+
+CYGWIN-ANNOUNCE UNSUBSCRIBE INFO
+================================
+
+This message has been sent to cygwin-announce list.
+
+If you want to unsubscribe from the mailing list, look at the
+"List-Unsubscribe: " tag in the email header of this message. Send
+email to the address specified there. It will be in the format:
+
+    cygwin-announce-unsubscribe-you=yourdomain.com@cygwin.com
+
+More information on unsubscribing can be found:
+
+    http://sources.redhat.com/lists.html#unsubscribe-simple
+
+Please read *all* of the information on unsubscribing that is available
+starting at the above URL.
